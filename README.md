@@ -1,5 +1,5 @@
 # Pokecube-Models
-Repository for the Model files for pokecube
+Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Currently known Messed up texures/other glitches
 - Trevenant - Legs are funny
