@@ -1,3 +1,4 @@
-/Pokecube-Models/nbproject/private/
-/nbproject/private/
+/Pokecube-Models/nbproject/*
+/nbproject/*
 *.blend1
+build.xml
