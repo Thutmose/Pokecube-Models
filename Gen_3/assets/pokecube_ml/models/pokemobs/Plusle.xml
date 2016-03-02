@@ -7,7 +7,6 @@
             <part name="Head" tex="PlusleHead"/>
             <animation part="Head" trigger="random:0.005:20" diffs="0,0.25"/>
             <animation part="Head" trigger="sleeping" diffs="0,0.5"/>
-            <animation part="Head" trigger="angry" diffs="0,0.75"/>
         </customTex> 
     </model>
 </ModelAnimator>
