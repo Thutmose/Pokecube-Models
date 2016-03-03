@@ -323,3 +323,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Noibat
 - 	Noivern
 - 	Zygarde
+- 	Diancie
+- 	Hoopa - both formes
+- 	Volcanion
