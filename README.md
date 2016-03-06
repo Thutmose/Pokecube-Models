@@ -169,7 +169,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Darkrai
 - 	Shaymin Sky
 - 	Shaymin Land
-- 	Arceus
 - 	Patrat
 - 	Watchog
 - 	Lillipup
