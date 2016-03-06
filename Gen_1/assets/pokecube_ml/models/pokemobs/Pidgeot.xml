@@ -6,4 +6,7 @@
         <phase name="flap" duration="20" leftWing="leftWing2" rightWing="rightWing2" angle="20" start="0"/>
         <merges merge="idle->walking" />
     </model>
+    <details>
+        <RIDDENOFFSET>0.6</RIDDENOFFSET>
+    </details>
 </ModelAnimator>

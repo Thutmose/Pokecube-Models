@@ -5,4 +5,7 @@
         <merges merge="idle->sitting" />
         <merges merge="idle->swimming" />
     </model>
+    <details>
+        <RIDDENOFFSET>0.5</RIDDENOFFSET>
+    </details>
 </ModelAnimator>

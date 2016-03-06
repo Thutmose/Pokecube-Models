@@ -3,4 +3,7 @@
 	<model name="">
 		<phase name="global" rotation="1,0,0,0" offset="0,-2.25,0" scale="1.5" headAxis="1" headCap="-50,50"/>
 	</model>
+    <details>
+        <RIDDENOFFSET>1</RIDDENOFFSET>
+    </details>
 </ModelAnimator>

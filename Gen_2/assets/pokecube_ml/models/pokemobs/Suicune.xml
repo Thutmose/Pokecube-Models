@@ -5,4 +5,7 @@
         <phase name="quadWalk" leftHind="leg2" rightHind="leg1" leftFront="leg4" rightFront="leg3" duration="10"/>
         <merges merge="idle->walking" />
     </model>
+    <details>
+        <RIDDENOFFSET>0.8</RIDDENOFFSET>
+    </details>
 </ModelAnimator>

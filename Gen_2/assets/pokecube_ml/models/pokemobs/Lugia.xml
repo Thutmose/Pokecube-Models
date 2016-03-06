@@ -7,4 +7,7 @@
         <merges merge="idle2->idle" />
         <merges merge="idle2->flying" />
     </model>
+    <details>
+        <RIDDENOFFSET>0.4</RIDDENOFFSET>
+    </details>
 </ModelAnimator>
