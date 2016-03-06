@@ -15,12 +15,12 @@
 		            skyColor="0.051 0.051 0.051"
 		            />
 		<Transform DEF="Body1_TRANSFORM"
-		           translation="0.000000 -0.281250 -0.000000"
+		           translation="0.000000 -0.281250 0.848303"
 		           scale="1.000000 1.000000 1.000000"
 		           rotation="1.000000 0.000000 0.000000 1.570796"
 		           >
 			<Transform DEF="Body1_ifs_TRANSFORM"
-			           translation="0.000000 0.000000 0.000000"
+			           translation="0.000000 -0.000000 0.000000"
 			           scale="1.000000 1.000000 1.000000"
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
@@ -45,7 +45,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="StreamerC1_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -70,7 +70,7 @@
 				           rotation="0.000000 -0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="StreamerC2_ifs_TRANSFORM"
-					           translation="0.000000 -0.000000 -0.000000"
+					           translation="0.000000 -0.000000 0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="0.000000 -0.000000 0.000000 0.000000"
 					           >
@@ -90,12 +90,12 @@
 						</Group>
 					</Transform>
 					<Transform DEF="RedSpikeC_TRANSFORM"
-					           translation="-0.029342 -0.050821 0.985368"
+					           translation="-0.029342 -0.050822 0.985368"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="-0.000000 -0.000000 -0.000000 0.000000"
 					           >
 						<Transform DEF="RedSpikeC_ifs_TRANSFORM"
-						           translation="0.000000 0.000000 0.000000"
+						           translation="0.000000 -0.000000 0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="0.000000 0.000000 0.000000 0.000000"
 						           >
@@ -123,7 +123,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="RibF_ifs_TRANSFORM"
-				           translation="0.000000 -0.000000 -0.000000"
+				           translation="0.000000 -0.000000 0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -148,7 +148,7 @@
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="RibF1_ifs_TRANSFORM"
-					           translation="0.000000 0.000000 0.000000"
+					           translation="0.000000 -0.000000 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -168,12 +168,12 @@
 						</Group>
 					</Transform>
 					<Transform DEF="RibF2_TRANSFORM"
-					           translation="-0.135259 -0.400978 0.000000"
+					           translation="-0.135259 -0.400978 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="RibF2_ifs_TRANSFORM"
-						           translation="0.000000 -0.000000 0.000000"
+						           translation="0.000000 -0.000000 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
@@ -193,12 +193,12 @@
 							</Group>
 						</Transform>
 						<Transform DEF="RibF3_TRANSFORM"
-						           translation="0.102695 -0.374159 0.000000"
+						           translation="0.102695 -0.374159 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
 							<Transform DEF="RibF3_ifs_TRANSFORM"
-							           translation="0.000000 0.000000 0.000000"
+							           translation="0.000000 0.000000 -0.000000"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
@@ -227,7 +227,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="RibE_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -252,7 +252,7 @@
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="RibE1_ifs_TRANSFORM"
-					           translation="0.000000 -0.000000 0.000000"
+					           translation="0.000000 0.000000 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -277,7 +277,7 @@
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="RibE2_ifs_TRANSFORM"
-						           translation="0.000000 -0.000000 0.000000"
+						           translation="0.000000 0.000000 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
@@ -297,12 +297,12 @@
 							</Group>
 						</Transform>
 						<Transform DEF="RibE3_TRANSFORM"
-						           translation="0.102695 -0.374159 0.000000"
+						           translation="0.102695 -0.374159 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
 							<Transform DEF="RibE3_ifs_TRANSFORM"
-							           translation="0.000000 -0.000000 0.000000"
+							           translation="0.000000 -0.000000 -0.000000"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
@@ -326,12 +326,12 @@
 				</Transform>
 			</Transform>
 			<Transform DEF="Body2_TRANSFORM"
-			           translation="0.000000 0.000000 1.156250"
+			           translation="0.000000 -0.000000 1.156250"
 			           scale="1.000000 1.000000 1.000000"
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="Body2_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 -0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -351,12 +351,12 @@
 					</Group>
 				</Transform>
 				<Transform DEF="Body3_TRANSFORM"
-				           translation="0.000000 0.000000 0.687500"
+				           translation="0.000000 -0.000000 0.687500"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="Body3_ifs_TRANSFORM"
-					           translation="0.000000 0.000000 0.000000"
+					           translation="0.000000 -0.000000 0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -483,7 +483,7 @@
 							           rotation="0.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="Body6_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 0.000000"
+								           translation="0.000000 -0.000000 -0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -503,12 +503,12 @@
 									</Group>
 								</Transform>
 								<Transform DEF="Body7_TRANSFORM"
-								           translation="0.000000 0.000000 0.500000"
+								           translation="0.000000 -0.000000 0.500000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
 									<Transform DEF="Body7_ifs_TRANSFORM"
-									           translation="0.000000 0.000000 0.000000"
+									           translation="0.000000 -0.000000 -0.000000"
 									           scale="1.000000 1.000000 1.000000"
 									           rotation="1.000000 0.000000 0.000000 0.000000"
 									           >
@@ -533,7 +533,7 @@
 									           rotation="1.000000 0.000000 0.000000 0.000000"
 									           >
 										<Transform DEF="Body8_ifs_TRANSFORM"
-										           translation="0.000000 0.000000 0.000000"
+										           translation="0.000000 0.000000 -0.000000"
 										           scale="1.000000 1.000000 1.000000"
 										           rotation="1.000000 0.000000 0.000000 0.000000"
 										           >
@@ -553,12 +553,12 @@
 											</Group>
 										</Transform>
 										<Transform DEF="Body9_TRANSFORM"
-										           translation="0.000000 0.000000 0.556251"
+										           translation="0.000000 -0.000000 0.556250"
 										           scale="1.000000 1.000000 1.000000"
 										           rotation="1.000000 0.000000 0.000000 0.000000"
 										           >
 											<Transform DEF="Body9_ifs_TRANSFORM"
-											           translation="0.000000 0.000000 0.000000"
+											           translation="0.000000 -0.000000 -0.000000"
 											           scale="1.000000 1.000000 1.000000"
 											           rotation="1.000000 0.000000 0.000000 0.000000"
 											           >
@@ -578,12 +578,12 @@
 												</Group>
 											</Transform>
 											<Transform DEF="Body10_TRANSFORM"
-											           translation="0.000000 -0.000000 0.531250"
+											           translation="0.000000 0.000000 0.531249"
 											           scale="1.000000 1.000000 1.000000"
 											           rotation="-0.000000 0.000000 0.000000 0.000000"
 											           >
 												<Transform DEF="Body10_ifs_TRANSFORM"
-												           translation="0.000000 -0.000000 0.000000"
+												           translation="0.000000 0.000000 0.000000"
 												           scale="1.000000 1.000000 1.000000"
 												           rotation="1.000000 0.000000 0.000000 0.000000"
 												           >
@@ -603,12 +603,12 @@
 													</Group>
 												</Transform>
 												<Transform DEF="Body11_TRANSFORM"
-												           translation="0.000000 0.000000 0.562500"
+												           translation="0.000000 -0.000000 0.562500"
 												           scale="1.000000 1.000000 1.000000"
 												           rotation="1.000000 0.000000 0.000000 0.000000"
 												           >
 													<Transform DEF="Body11_ifs_TRANSFORM"
-													           translation="0.000000 0.000000 0.000000"
+													           translation="0.000000 -0.000000 0.000000"
 													           scale="1.000000 1.000000 1.000000"
 													           rotation="1.000000 0.000000 0.000000 0.000000"
 													           >
@@ -628,7 +628,7 @@
 														</Group>
 													</Transform>
 													<Transform DEF="Spike1a_TRANSFORM"
-													           translation="0.000000 -0.000000 0.250000"
+													           translation="0.000000 0.000000 0.250000"
 													           scale="1.000000 1.000000 1.000000"
 													           rotation="1.000000 0.000000 0.000000 0.000000"
 													           >
@@ -653,12 +653,12 @@
 															</Group>
 														</Transform>
 														<Transform DEF="Spike1_TRANSFORM"
-														           translation="0.000000 -0.000000 0.000001"
+														           translation="0.000000 0.000000 0.000001"
 														           scale="1.000000 1.000000 1.000000"
 														           rotation="1.000000 0.000000 0.000000 0.000000"
 														           >
 															<Transform DEF="Spike1_ifs_TRANSFORM"
-															           translation="0.000000 -0.000000 0.000000"
+															           translation="0.000000 0.000000 0.000000"
 															           scale="1.000000 1.000000 1.000000"
 															           rotation="1.000000 0.000000 0.000000 0.000000"
 															           >
@@ -680,12 +680,12 @@
 														</Transform>
 													</Transform>
 													<Transform DEF="Body12_TRANSFORM"
-													           translation="0.000000 -0.000000 0.531250"
+													           translation="0.000000 0.000000 0.531250"
 													           scale="1.000000 1.000000 1.000000"
 													           rotation="1.000000 0.000000 0.000000 0.000000"
 													           >
 														<Transform DEF="Body12_ifs_TRANSFORM"
-														           translation="0.000000 -0.000000 0.000000"
+														           translation="0.000000 0.000000 0.000000"
 														           scale="1.000000 1.000000 1.000000"
 														           rotation="1.000000 0.000000 0.000000 0.000000"
 														           >
@@ -705,12 +705,12 @@
 															</Group>
 														</Transform>
 														<Transform DEF="Body13_TRANSFORM"
-														           translation="0.000000 0.000000 0.531250"
+														           translation="0.000000 -0.000000 0.531250"
 														           scale="1.000000 1.000000 1.000000"
 														           rotation="1.000000 0.000000 0.000000 0.000000"
 														           >
 															<Transform DEF="Body13_ifs_TRANSFORM"
-															           translation="0.000000 0.000000 0.000000"
+															           translation="0.000000 -0.000000 -0.000000"
 															           scale="1.000000 1.000000 1.000000"
 															           rotation="1.000000 0.000000 0.000000 0.000000"
 															           >
@@ -734,12 +734,12 @@
 												</Transform>
 											</Transform>
 											<Transform DEF="Spike2a_TRANSFORM"
-											           translation="0.000000 0.000000 0.343750"
+											           translation="0.000000 -0.000000 0.343749"
 											           scale="1.000000 1.000000 1.000000"
 											           rotation="-0.000000 0.000000 0.000000 0.000000"
 											           >
 												<Transform DEF="Spike2a_ifs_TRANSFORM"
-												           translation="0.000000 0.000000 0.000000"
+												           translation="0.000000 -0.000000 0.000000"
 												           scale="1.000000 1.000000 1.000000"
 												           rotation="1.000000 0.000000 0.000000 0.000000"
 												           >
@@ -759,7 +759,7 @@
 													</Group>
 												</Transform>
 												<Transform DEF="Spike2_TRANSFORM"
-												           translation="0.000000 0.000000 0.000000"
+												           translation="0.000000 -0.000000 0.000000"
 												           scale="1.000000 1.000000 1.000000"
 												           rotation="1.000000 0.000000 0.000000 0.000000"
 												           >
@@ -792,12 +792,12 @@
 						</Transform>
 					</Transform>
 					<Transform DEF="Spike4a_TRANSFORM"
-					           translation="0.000000 0.000000 0.375000"
+					           translation="0.000000 -0.000000 0.375000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="Spike4a_ifs_TRANSFORM"
-						           translation="0.000000 0.000000 0.000000"
+						           translation="0.000000 -0.000000 0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
@@ -817,12 +817,12 @@
 							</Group>
 						</Transform>
 						<Transform DEF="Spike4_TRANSFORM"
-						           translation="0.000000 0.000000 0.000000"
+						           translation="0.000000 -0.000000 0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
 							<Transform DEF="Spike4_ifs_TRANSFORM"
-							           translation="0.000000 0.000000 0.000000"
+							           translation="0.000000 -0.000000 0.000000"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
@@ -851,7 +851,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="StreamerA1_ifs_TRANSFORM"
-				           translation="0.000000 -0.000000 0.000000"
+				           translation="0.000000 -0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -929,7 +929,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="RibA_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 -0.000000 0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -954,7 +954,7 @@
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="RibA1_ifs_TRANSFORM"
-					           translation="0.000000 0.000000 0.000000"
+					           translation="0.000000 -0.000000 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1033,7 +1033,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="RibB_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -1058,7 +1058,7 @@
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="RibB1_ifs_TRANSFORM"
-					           translation="0.000000 -0.000000 0.000000"
+					           translation="0.000000 0.000000 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1078,12 +1078,12 @@
 						</Group>
 					</Transform>
 					<Transform DEF="RibB2_TRANSFORM"
-					           translation="0.135258 -0.400979 0.000000"
+					           translation="0.135258 -0.400978 0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="RibB2_ifs_TRANSFORM"
-						           translation="0.000000 -0.000000 0.000000"
+						           translation="0.000000 0.000000 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
@@ -1103,12 +1103,12 @@
 							</Group>
 						</Transform>
 						<Transform DEF="RibB3_TRANSFORM"
-						           translation="-0.102695 -0.374159 0.000000"
+						           translation="-0.102695 -0.374159 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
 							<Transform DEF="RibB3_ifs_TRANSFORM"
-							           translation="0.000000 -0.000000 0.000000"
+							           translation="0.000000 -0.000000 -0.000000"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
@@ -1137,7 +1137,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="RibC_ifs_TRANSFORM"
-				           translation="0.000000 -0.000000 -0.000000"
+				           translation="0.000000 -0.000000 0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -1162,7 +1162,7 @@
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="RibC1_ifs_TRANSFORM"
-					           translation="0.000000 0.000000 0.000000"
+					           translation="0.000000 -0.000000 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1182,12 +1182,12 @@
 						</Group>
 					</Transform>
 					<Transform DEF="RibC2_TRANSFORM"
-					           translation="0.135258 -0.400979 0.000000"
+					           translation="0.135258 -0.400979 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="RibC2_ifs_TRANSFORM"
-						           translation="0.000000 -0.000000 0.000000"
+						           translation="0.000000 -0.000000 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
@@ -1207,12 +1207,12 @@
 							</Group>
 						</Transform>
 						<Transform DEF="RibC3_TRANSFORM"
-						           translation="-0.102695 -0.374159 0.000000"
+						           translation="-0.102695 -0.374159 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
 							<Transform DEF="RibC3_ifs_TRANSFORM"
-							           translation="0.000000 0.000000 0.000000"
+							           translation="0.000000 0.000000 -0.000000"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
@@ -1241,7 +1241,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="RibD_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 -0.000000 0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -1266,7 +1266,7 @@
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="RibD1_ifs_TRANSFORM"
-					           translation="0.000000 0.000000 0.000000"
+					           translation="0.000000 -0.000000 -0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1370,7 +1370,7 @@
 				           rotation="0.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="StreamerB2_ifs_TRANSFORM"
-					           translation="0.000000 -0.000000 -0.000000"
+					           translation="0.000000 -0.000000 0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1395,7 +1395,7 @@
 					           rotation="0.000000 -0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="RedSpikeB_ifs_TRANSFORM"
-						           translation="-0.000000 -0.000000 0.000000"
+						           translation="-0.000000 -0.000000 -0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="0.000000 -0.000000 0.000000 0.000000"
 						           >
@@ -1423,7 +1423,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="StreamerD1_ifs_TRANSFORM"
-				           translation="0.000000 -0.000000 0.000000"
+				           translation="0.000000 -0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -1526,7 +1526,7 @@
 				           rotation="0.000000 0.000000 0.000000 0.000000"
 				           >
 					<Transform DEF="StreamerE2_ifs_TRANSFORM"
-					           translation="0.000000 -0.000000 -0.000000"
+					           translation="0.000000 -0.000000 0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="1.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1579,7 +1579,7 @@
 			           rotation="1.000000 0.000000 0.000000 0.000000"
 			           >
 				<Transform DEF="StreamerF1_ifs_TRANSFORM"
-				           translation="0.000000 0.000000 0.000000"
+				           translation="0.000000 0.000000 -0.000000"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -1599,12 +1599,12 @@
 					</Group>
 				</Transform>
 				<Transform DEF="StreamerF2_TRANSFORM"
-				           translation="-0.365355 0.632812 1.296875"
+				           translation="-0.365355 0.632813 1.296875"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="0.000000 0.000000 -0.000000 0.000000"
 				           >
 					<Transform DEF="StreamerF2_ifs_TRANSFORM"
-					           translation="-0.000000 -0.000000 -0.000000"
+					           translation="-0.000000 -0.000000 0.000000"
 					           scale="1.000000 1.000000 1.000000"
 					           rotation="0.000000 0.000000 0.000000 0.000000"
 					           >
@@ -1629,7 +1629,7 @@
 					           rotation="-0.000000 0.000000 0.000000 0.000000"
 					           >
 						<Transform DEF="RedSpikeF_ifs_TRANSFORM"
-						           translation="-0.000000 0.000000 0.000000"
+						           translation="-0.000000 -0.000000 0.000000"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="0.000000 -0.000000 0.000000 0.000000"
 						           >
@@ -1677,7 +1677,7 @@
 					</Group>
 				</Transform>
 				<Transform DEF="Neck2_TRANSFORM"
-				           translation="0.000000 -0.000000 -0.343750"
+				           translation="0.000000 0.000000 -0.343750"
 				           scale="1.000000 1.000000 1.000000"
 				           rotation="1.000000 0.000000 0.000000 0.000000"
 				           >
@@ -1727,12 +1727,12 @@
 							</Group>
 						</Transform>
 						<Transform DEF="Head_TRANSFORM"
-						           translation="0.000000 -0.000000 -0.468750"
+						           translation="0.000000 0.000000 -0.468750"
 						           scale="1.000000 1.000000 1.000000"
 						           rotation="1.000000 0.000000 0.000000 0.000000"
 						           >
 							<Transform DEF="Head_ifs_TRANSFORM"
-							           translation="0.000000 0.000000 -0.000000"
+							           translation="0.000000 0.000000 0.000000"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
@@ -1757,7 +1757,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape7_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1778,12 +1778,12 @@
 								</Transform>
 							</Transform>
 							<Transform DEF="shape6_TRANSFORM"
-							           translation="-0.315611 0.135671 0.104529"
+							           translation="-0.315611 0.135672 0.104529"
 							           scale="1.000000 1.000000 1.000000"
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape6_ifs_TRANSFORM"
-								           translation="0.000000 -0.000000 -0.000000"
+								           translation="0.000000 0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1809,7 +1809,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape3_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1835,7 +1835,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape2_ifs_TRANSFORM"
-								           translation="0.000000 -0.000000 -0.000000"
+								           translation="0.000000 0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1861,7 +1861,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape1_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 0.000000"
+								           translation="0.000000 -0.000000 -0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1887,7 +1887,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="Mouth2_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 0.000000"
+								           translation="0.000000 0.000000 -0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1913,7 +1913,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="Mouth1_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 0.000000"
+								           translation="0.000000 0.000000 -0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1939,7 +1939,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="Crown1_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1965,7 +1965,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="Crown2_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -1991,7 +1991,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="Crown3_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -2017,7 +2017,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape4_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -2043,7 +2043,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape5_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 0.000000"
+								           translation="0.000000 -0.000000 -0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
@@ -2069,7 +2069,7 @@
 							           rotation="1.000000 0.000000 0.000000 0.000000"
 							           >
 								<Transform DEF="shape8_ifs_TRANSFORM"
-								           translation="0.000000 0.000000 -0.000000"
+								           translation="0.000000 -0.000000 0.000000"
 								           scale="1.000000 1.000000 1.000000"
 								           rotation="1.000000 0.000000 0.000000 0.000000"
 								           >
