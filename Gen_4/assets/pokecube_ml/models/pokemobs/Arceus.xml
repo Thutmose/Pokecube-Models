@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModelAnimator>
     <model>
-        <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale="1.3"/>
-        <metadata headCap="-60,60" headAxis="1" headAxis2="0" headDir="1" head="Head"/>        
+        <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale=".50"/>
+        <metadata headCap="-60,60" headAxis="1" headAxis2="0" headDir="1" head="Head1"/>        
         <customTex default="Arceus">
+            <forme name="Arceus" tex="Arceus"/>
             <forme name="Arceus Bug" tex="Arceus Bug"/>
             <forme name="Arceus Dark" tex="Arceus Dark"/>
             <forme name="Arceus Dragon" tex="Arceus Dragon"/>
@@ -22,6 +23,9 @@
             <forme name="Arceus Steel" tex="Arceus Steel"/>
             <forme name="Arceus Water" tex="Arceus Water"/>
         </customTex> 
-        <phase name="quadWalk" leftHind="LeftRearLeg" rightHind="RightRearLeg" leftFront="FrontLeftLeg" rightFront="FrontRightLeg" duration="10"/>
+        <phase name="quadWalk" leftHind="BackLegL1" rightHind="BackLegR1" leftFront="FrontLegL1" rightFront="FrontLegR1" duration="10"/>
     </model>
+    <details>
+        <RIDDENOFFSET>0.6</RIDDENOFFSET>
+    </details>
 </ModelAnimator>
