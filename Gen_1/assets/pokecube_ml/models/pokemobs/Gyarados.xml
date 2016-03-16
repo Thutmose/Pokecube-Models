@@ -3,6 +3,7 @@
    <model name="">
         <phase name="global" rotation="1,0,0,0" offset="0,-0.6,0" scale="0.4" headAxis="1" headCap="-50,50"/>
         <merges merge="idle->swimming" />
+        <phase name="textures" male="M" female="F"/>
    </model>
     <details>
         <RIDDENOFFSET>0.4</RIDDENOFFSET>
