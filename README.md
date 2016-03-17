@@ -25,9 +25,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Bellsprout
 - 	Weepinbell
 - 	Victreebel
-- 	Slowbro Mega
-- 	Seel
-- 	Dewgong
 - 	Grimer
 - 	Muk
 - 	Gengar Mega
