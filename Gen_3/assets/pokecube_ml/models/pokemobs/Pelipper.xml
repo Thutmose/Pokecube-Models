@@ -4,4 +4,7 @@
         <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale="1.0" headAxis="1" headCap="-50,50"/>
         <metadata head="_" />
     </model>
+    <details>
+        <RIDDENOFFSET>0.6</RIDDENOFFSET>
+    </details>
 </ModelAnimator>
