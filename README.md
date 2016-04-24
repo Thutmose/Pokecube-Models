@@ -292,8 +292,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Aromatisse
 - 	Swirlix
 - 	Slurpuff
-- 	Inkay
-- 	Malamar
 - 	Binacle
 - 	Barbaracle
 - 	Skrelp
