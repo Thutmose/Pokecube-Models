@@ -74,8 +74,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Makuhita
 - 	Hariyama
 - 	Nosepass
-- 	Sableye Mega
-- 	Sableye
 - 	Mawile Mega
 - 	Aggron Mega
 - 	Meditite
