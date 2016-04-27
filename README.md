@@ -7,7 +7,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 ##Other needed models - Pull requests with these would be nice.
 
 - 	Venusaur Mega
-- 	Charizard Mega-X
 - 	Ekans
 - 	Arbok
 - 	Sandshrew
