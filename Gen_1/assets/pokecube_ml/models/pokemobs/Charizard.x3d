@@ -2,7 +2,7 @@
 <X3D>
 	<head>
 		<meta name="filename" content="Charizard.x3d" />
-		<meta name="generator" content="Blender 2.76 (sub 0)" />
+		<meta name="generator" content="Blender 2.77 (sub 0)" />
 	</head>
 	<Scene>
 		<NavigationInfo headlight="true"
@@ -310,8 +310,16 @@
 							<Group DEF="group_ME_flame">
 								<Shape>
 									<Appearance>
+										<Material DEF="MA_flame"
+										          diffuseColor="0.800 0.800 0.800"
+										          specularColor="0.401 0.401 0.401"
+										          emissiveColor="0.800 0.800 0.800"
+										          ambientIntensity="0.333"
+										          shininess="0.098"
+										          transparency="0.0"
+										          />
 									</Appearance>
-									<IndexedTriangleSet solid="false"
+									<IndexedTriangleSet solid="true"
 									                    normalPerVertex="true"
 									                    index="0 1 2 0 2 3 "
 									                    >
