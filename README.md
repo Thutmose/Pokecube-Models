@@ -35,7 +35,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Exeggcute
 - 	Exeggutor
 - 	Lickitung
-- 	Rhydon
 - 	Tangela
 - 	Kangaskhan Mega
 - 	Kangaskhan
@@ -255,7 +254,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Kyurem Black
 - 	Kyurem White
 - 	Keldeo
-- 	Meloetta Aria
 - 	Meloetta Pirouette
 - 	Genesect
 - 	Bunnelby
