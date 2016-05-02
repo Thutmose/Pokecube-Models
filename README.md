@@ -6,21 +6,12 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Venusaur Mega
-- 	Ekans
-- 	Arbok
 - 	Sandshrew
 - 	Sandslash
-- 	Venonat
-- 	Venomoth
 - 	Psyduck
 - 	Golduck
 - 	Growlithe
 - 	Arcanine
-- 	Abra
-- 	Kadabra
-- 	Alakazam
-- 	Alakazam Mega
 - 	Bellsprout
 - 	Weepinbell
 - 	Victreebel
@@ -37,10 +28,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Tangela
 - 	Kangaskhan Mega
 - 	Kangaskhan
-- 	Goldeen
-- 	Seaking
-- 	Staryu
-- 	Starmie
 - 	Mr. Mime
 - 	Pinsir
 - 	Pinsir Mega
