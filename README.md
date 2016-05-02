@@ -20,8 +20,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Gengar Mega
 - 	Drowzee
 - 	Hypno
-- 	Krabby
-- 	Kingler
 - 	Exeggcute
 - 	Exeggutor
 - 	Lickitung
