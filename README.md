@@ -17,7 +17,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Victreebel
 - 	Grimer
 - 	Muk
-- 	Gengar Mega
 - 	Drowzee
 - 	Hypno
 - 	Exeggcute
@@ -177,8 +176,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Scraggy
 - 	Scrafty
 - 	Sigilyph
-- 	Yamask
-- 	Cofagrigus
 - 	Tirtouga
 - 	Carracosta
 - 	Archen
