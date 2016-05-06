@@ -128,7 +128,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Rotom Frost
 - 	Rotom Heat
 - 	Rotom Wash
-- 	Rotom
 - 	Rotom Mow
 - 	Rotom Fan
 - 	Uxie
