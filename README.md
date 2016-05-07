@@ -32,7 +32,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Aerodactyl Mega
 - 	Snorlax
 - 	Mewtwo Mega-X
-- 	Mewtwo Mega-Y
 - 	Ledyba
 - 	Ledian
 - 	Togepi
