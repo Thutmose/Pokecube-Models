@@ -40,7 +40,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Heracross Mega
 - 	Houndoom Mega
 - 	Tyranitar Mega
-- 	Blaziken Mega
 - 	Swampert Mega
 - 	Wurmple
 - 	Silcoon
