@@ -10,5 +10,4 @@
 -   Steelix + Mega
 -   Cofagrigus
 -   Yamask
--   Rotom
 -   Glalie Mega
