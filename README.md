@@ -65,7 +65,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Volbeat
 - 	Illumise
 - 	Numel
-- 	Camerupt
 - 	Torkoal
 - 	Spinda
 - 	Altaria Mega
