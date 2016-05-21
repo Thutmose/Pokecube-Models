@@ -1,9 +1,6 @@
 # Pokecube-Models
 Repository for the Model files for https://github.com/Thutmose/Pokecube
 
-##Currently known Messed up texures/other glitches
-- Trevenant - Legs are funny
-
 ##Other needed models - Pull requests with these would be nice.
 
 - 	Sandshrew
@@ -63,7 +60,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Volbeat
 - 	Illumise
 - 	Numel
-- 	Camerupt
 - 	Torkoal
 - 	Spinda
 - 	Altaria Mega
