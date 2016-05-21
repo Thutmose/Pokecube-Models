@@ -7,7 +7,10 @@
 -   Noctowl
 -   Krabby
 -   Kingler
+-   Pinsir + Mega
 -   Steelix + Mega
+-   Spoink
+-   Grumpig
 -   Cofagrigus
 -   Yamask
 -   Glalie Mega

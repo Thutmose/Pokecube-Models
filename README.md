@@ -26,8 +26,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Kangaskhan Mega
 - 	Kangaskhan
 - 	Mr. Mime
-- 	Pinsir
-- 	Pinsir Mega
 - 	Gyarados Mega
 - 	Aerodactyl Mega
 - 	Snorlax
@@ -67,8 +65,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Numel
 - 	Camerupt
 - 	Torkoal
-- 	Spoink
-- 	Grumpig
 - 	Spinda
 - 	Altaria Mega
 - 	Zangoose
@@ -123,11 +119,9 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Magmortar
 - 	Togekiss
 - 	Probopass
-- 	Rotom Frost
 - 	Rotom Heat
 - 	Rotom Wash
 - 	Rotom Mow
-- 	Rotom Fan
 - 	Uxie
 - 	Mesprit
 - 	Azelf
