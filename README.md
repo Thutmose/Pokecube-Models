@@ -16,8 +16,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Muk
 - 	Drowzee
 - 	Hypno
-- 	Exeggcute
-- 	Exeggutor
 - 	Lickitung
 - 	Tangela
 - 	Kangaskhan Mega
@@ -31,7 +29,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Ledian
 - 	Togepi
 - 	Togetic
-- 	Ampharos Mega
 - 	Heracross Mega
 - 	Houndoom Mega
 - 	Tyranitar Mega
@@ -50,7 +47,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Hariyama
 - 	Nosepass
 - 	Mawile Mega
-- 	Aggron Mega
 - 	Meditite
 - 	Medicham Mega
 - 	Medicham

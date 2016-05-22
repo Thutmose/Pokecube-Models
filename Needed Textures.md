@@ -7,6 +7,8 @@
 -   Noctowl
 -   Krabby
 -   Kingler
+-   Exeggcute
+-   Eggecutor
 -   Pinsir + Mega
 -   Steelix + Mega
 -   Spoink
