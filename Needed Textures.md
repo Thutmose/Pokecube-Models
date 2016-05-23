@@ -11,8 +11,13 @@
 -   Eggecutor
 -   Pinsir + Mega
 -   Steelix + Mega
+-   Suicune
+-   Numel
+-   Camerupt + Mega
 -   Spoink
 -   Grumpig
 -   Cofagrigus
 -   Yamask
 -   Glalie Mega
+-   Bunnelby
+-   Diggersby

@@ -5,8 +5,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 - 	Sandshrew
 - 	Sandslash
-- 	Psyduck
-- 	Golduck
 - 	Growlithe
 - 	Arcanine
 - 	Bellsprout
@@ -55,7 +53,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Manectric
 - 	Volbeat
 - 	Illumise
-- 	Numel
 - 	Torkoal
 - 	Spinda
 - 	Altaria Mega
@@ -111,7 +108,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Magmortar
 - 	Togekiss
 - 	Probopass
-- 	Rotom Heat
 - 	Rotom Wash
 - 	Rotom Mow
 - 	Uxie
@@ -217,14 +213,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Kyurem
 - 	Kyurem Black
 - 	Kyurem White
-- 	Keldeo
-- 	Meloetta Pirouette
-- 	Genesect
-- 	Bunnelby
-- 	Diggersby
-- 	Scatterbug
-- 	Spewpa
-- 	Vivillon
 - 	Litleo
 - 	Pyroar
 - 	Flabébé

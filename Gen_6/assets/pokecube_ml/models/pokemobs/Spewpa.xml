@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelAnimator version="0.1">
+    <model name="">
+        <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale="0.2"/>
+        <metadata head="head" headCap="-60,60" headAxis="1" headAxis2="2" headDir="1"/>
+    </model>
+    <Pokemon name="Spewpa" number="665">
+        <STATS>
+            <EVOLUTIONMODE>L12:BTWplains'Bcold'Bhot'Bmountain,TWforest'Bcold'Bhot'Bmountain L12:BTWocean'Bcold,TWbeach'Bcold L12:BTWsandy L12:BTWnether L12:BTWend L12:Biceplainsspikes L12:BTWcold L12:BTWswamp,TWjungle L12:BTWsavanna L12:Bvillage L12:BTWmountain L12</EVOLUTIONMODE>
+            <CAPTURERATE>255</CAPTURERATE>
+            <EVOLUTIONANIMATION>_</EVOLUTIONANIMATION>
+            <SPECIES>Insecta</SPECIES>
+            <MOVEMENTTYPE>normal</MOVEMENTTYPE>
+            <MASSKG>8.4</MASSKG>
+            <EVOLVESTO>vivillonelegant vivillonocean vivillonsandstorm vivillonhell vivillonend vivillonpolar vivillonicysnow vivillonmonsoon vivillonsun vivillonmodern vivillonhighplains vivillon</EVOLVESTO>
+            <EXPYIELD>75</EXPYIELD>
+            <COMMONDROP>2:string</COMMONDROP>
+            <BASEFRIENDSHIP>70</BASEFRIENDSHIP>
+            <LOGIC shoulder="FALSE"/>
+            <EXPERIENCEMODE>Medium Fast</EXPERIENCEMODE>
+            <GENDERRATIO>127</GENDERRATIO>
+            <BASESTATS atk="22" def="60" hp="45" spatk="27" spd="29" spdef="30"/>
+            <EVYIELD def="2"/>
+            <SIZES height="0.3" length="0.3" width="0.3"/>
+            <TYPE type1="Bug"/>
+            <ABILITY hidden="Friend Guard" normal="Shed Skin"/>
+        </STATS>
+        <MOVES>
+            <MISC moves="PROTECT, POISONPOWDER, RAGEPOWDER, STUNSPORE"/>
+            <LVLUP lvl_1="HARDEN" lvl_9="PROTECT"/>
+        </MOVES>
+    </Pokemon>
+</ModelAnimator>
