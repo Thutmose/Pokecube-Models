@@ -5,8 +5,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 - 	Sandshrew
 - 	Sandslash
-- 	Growlithe
-- 	Arcanine
 - 	Bellsprout
 - 	Weepinbell
 - 	Victreebel
@@ -72,8 +70,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Luxray
 - 	Wormadam Trash
 - 	Wormadam Sandy
-- 	Buizel
-- 	Floatzel
 - 	Cherubi
 - 	Cherrim
 - 	Shellos
@@ -242,7 +238,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Amaura
 - 	Aurorus
 - 	Hawlucha
-- 	Dedenne
 - 	Pumpkaboo Large
 - 	Pumpkaboo Average
 - 	Pumpkaboo Small
@@ -254,6 +249,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Noibat
 - 	Noivern
 - 	Zygarde
-- 	Diancie
+- 	Diancie Mega
 - 	Hoopa - both formes
 - 	Volcanion
