@@ -3,7 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Sandshrew
 - 	Sandslash
 - 	Bellsprout
 - 	Weepinbell
@@ -47,7 +46,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Medicham Mega
 - 	Medicham
 - 	Electrike
-- 	Manectric Mega
 - 	Manectric
 - 	Volbeat
 - 	Illumise
@@ -86,7 +84,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Spiritomb
 - 	Garchomp Mega
 - 	Munchlax
-- 	Lucario Mega
 - 	Skorupi
 - 	Drapion
 - 	Croagunk
@@ -248,7 +245,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Gourgeist Small
 - 	Noibat
 - 	Noivern
-- 	Zygarde
 - 	Diancie Mega
 - 	Hoopa - both formes
 - 	Volcanion
