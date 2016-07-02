@@ -6,7 +6,6 @@
 -   Exeggcute
 -   Eggecutor
 -   Pinsir + Mega
--   Cofagrigus
--   Yamask
 -   Bunnelby
 -   Diggersby
+-   Tangela
