@@ -5,7 +5,25 @@
 -	Porygon-Z
 -   Exeggcute
 -   Eggecutor
--   Pinsir + Mega
 -   Bunnelby
 -   Diggersby
 -   Tangela
+-   Infernape
+-   Dedenne
+-   Pancham
+-   Bunnelby
+-   Wormadam
+-   Empoleon
+-   Goldeen
+-   Seaking
+-   Exeggcute
+-   Doduo
+-   Dodrio
+-   Arcanine
+-   Growlithe
+-   Venomoth
+-   Venonat
+-   Ekans
+-   Arbok
+-   Arcanine
+-   Kadabra

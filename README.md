@@ -12,7 +12,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Drowzee
 - 	Hypno
 - 	Lickitung
-- 	Tangela
 - 	Kangaskhan Mega
 - 	Kangaskhan
 - 	Mr. Mime
@@ -25,7 +24,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Togepi
 - 	Togetic
 - 	Heracross Mega
-- 	Houndoom Mega
 - 	Tyranitar Mega
 - 	Swampert Mega
 - 	Wurmple
@@ -45,8 +43,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Meditite
 - 	Medicham Mega
 - 	Medicham
-- 	Electrike
-- 	Manectric
 - 	Volbeat
 - 	Illumise
 - 	Torkoal
@@ -230,8 +226,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Clawitzer
 - 	Helioptile
 - 	Heliolisk
-- 	Tyrunt
-- 	Tyrantrum
 - 	Amaura
 - 	Aurorus
 - 	Hawlucha
