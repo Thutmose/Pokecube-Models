@@ -45,7 +45,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Medicham
 - 	Volbeat
 - 	Illumise
-- 	Torkoal
 - 	Spinda
 - 	Altaria Mega
 - 	Zangoose
@@ -77,7 +76,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Skuntank
 - 	Mime Jr.
 - 	Chatot
-- 	Spiritomb
 - 	Garchomp Mega
 - 	Munchlax
 - 	Skorupi
@@ -181,9 +179,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Vullaby
 - 	Mandibuzz
 - 	Heatmor
-- 	Deino
-- 	Zweilous
-- 	Hydreigon
 - 	Cobalion
 - 	Terrakion
 - 	Virizion
@@ -226,8 +221,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Clawitzer
 - 	Helioptile
 - 	Heliolisk
-- 	Amaura
-- 	Aurorus
 - 	Hawlucha
 - 	Pumpkaboo Large
 - 	Pumpkaboo Average
