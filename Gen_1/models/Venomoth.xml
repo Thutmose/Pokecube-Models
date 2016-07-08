@@ -24,4 +24,7 @@
         </phase>
 	<merges merge="idle->flying" />
     </model>
+    <details>
+        <RIDDENOFFSET>0.4</RIDDENOFFSET>
+    </details>
 </ModelAnimator>

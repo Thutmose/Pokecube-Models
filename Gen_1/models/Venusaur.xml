@@ -6,6 +6,6 @@
         <phase name="quadWalk" leftHind="leg2" rightHind="leg1" leftFront="leg4" rightFront="leg3" duration="10"/>
 	</model>
     <details>
-        <RIDDENOFFSET>0.6</RIDDENOFFSET>
+        <RIDDENOFFSET>0.5</RIDDENOFFSET>
     </details>
 </ModelAnimator>

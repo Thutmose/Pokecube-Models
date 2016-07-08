@@ -8,6 +8,6 @@
         <merges merge="idle->walking" />
     </model>
     <details>
-        <RIDDENOFFSET>0.6</RIDDENOFFSET>
+        <RIDDENOFFSET>0,0.5,-0.2</RIDDENOFFSET>
     </details>
 </ModelAnimator>
