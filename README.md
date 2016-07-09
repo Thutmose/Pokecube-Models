@@ -93,7 +93,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Rotom Wash
 - 	Rotom Mow
 - 	Heatran
-- 	Regigigas
 - 	Shaymin Sky
 - 	Shaymin Land
 - 	Patrat
