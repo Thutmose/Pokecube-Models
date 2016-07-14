@@ -10,6 +10,6 @@
         </customTex> 
     </model>
     <details>
-        <RIDDENOFFSET>0.8</RIDDENOFFSET>
+        <RIDDENOFFSET>0,0.5,-0.25</RIDDENOFFSET>
     </details>
 </ModelAnimator>

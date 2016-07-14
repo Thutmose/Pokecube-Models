@@ -152,9 +152,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Escavalier
 - 	Frillish
 - 	Jellicent
-- 	Klink
-- 	Klang
-- 	Klinklang
 - 	Elgyem
 - 	Beheeyem
 - 	Cubchoo
