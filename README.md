@@ -3,6 +3,7 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
+- 	Sandshrew
 - 	Sandslash
 - 	Bellsprout
 - 	Weepinbell
@@ -177,11 +178,8 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Tornadus Therian
 - 	Thundurus Incarnate
 - 	Thundurus Therian
-- 	Reshiram
-- 	Zekrom
 - 	Landorus Therian
 - 	Landorus Incarnate
-- 	Kyurem
 - 	Kyurem Black
 - 	Kyurem White
 - 	Litleo
@@ -221,8 +219,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Gourgeist Average
 - 	Gourgeist Super
 - 	Gourgeist Small
-- 	Noibat
-- 	Noivern
 - 	Diancie Mega
 - 	Hoopa - both formes
 - 	Volcanion
