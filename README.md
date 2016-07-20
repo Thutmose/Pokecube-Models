@@ -5,11 +5,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 - 	Sandshrew
 - 	Sandslash
-- 	Bellsprout
-- 	Weepinbell
-- 	Victreebel
-- 	Grimer
-- 	Muk
 - 	Drowzee
 - 	Hypno
 - 	Lickitung
@@ -18,12 +13,9 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Mr. Mime
 - 	Gyarados Mega
 - 	Aerodactyl Mega
-- 	Snorlax
 - 	Mewtwo Mega-X
 - 	Ledyba
 - 	Ledian
-- 	Togepi
-- 	Togetic
 - 	Heracross Mega
 - 	Tyranitar Mega
 - 	Swampert Mega
@@ -73,7 +65,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Mime Jr.
 - 	Chatot
 - 	Garchomp Mega
-- 	Munchlax
 - 	Skorupi
 - 	Drapion
 - 	Croagunk
@@ -89,15 +80,12 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Tangrowth
 - 	Electivire
 - 	Magmortar
-- 	Togekiss
 - 	Probopass
 - 	Rotom Wash
 - 	Rotom Mow
 - 	Heatran
 - 	Shaymin Sky
 - 	Shaymin Land
-- 	Patrat
-- 	Watchog
 - 	Lillipup
 - 	Herdier
 - 	Stoutland
