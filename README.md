@@ -3,10 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Sandshrew
-- 	Sandslash
-- 	Drowzee
-- 	Hypno
 - 	Lickitung
 - 	Kangaskhan Mega
 - 	Kangaskhan
@@ -67,8 +63,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Garchomp Mega
 - 	Skorupi
 - 	Drapion
-- 	Croagunk
-- 	Toxicroak
 - 	Carnivine
 - 	Finneon
 - 	Lumineon
@@ -100,8 +94,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Roggenrola
 - 	Boldore
 - 	Gigalith
-- 	Woobat
-- 	Swoobat
 - 	Drilbur
 - 	Excadrill
 - 	Audino
@@ -177,8 +169,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Florges
 - 	Skiddo
 - 	Gogoat
-- 	Pancham
-- 	Pangoro
 - 	Furfrou
 - 	Espurr
 - 	Meowstic
