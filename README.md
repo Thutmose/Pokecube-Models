@@ -3,9 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Lickitung
-- 	Kangaskhan Mega
-- 	Kangaskhan
 - 	Mr. Mime
 - 	Gyarados Mega
 - 	Aerodactyl Mega
@@ -69,7 +66,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Snover
 - 	Abomasnow
 - 	Abomasnow Mega
-- 	Lickilicky
 - 	Rhyperior
 - 	Tangrowth
 - 	Electivire
@@ -126,9 +122,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Gothitelle
 - 	Ducklett
 - 	Swanna
-- 	Vanillite
-- 	Vanillish
-- 	Vanilluxe
 - 	Karrablast
 - 	Escavalier
 - 	Frillish
@@ -189,14 +182,8 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Helioptile
 - 	Heliolisk
 - 	Hawlucha
-- 	Pumpkaboo Large
-- 	Pumpkaboo Average
-- 	Pumpkaboo Small
-- 	Pumpkaboo Super
-- 	Gourgeist Large
-- 	Gourgeist Average
-- 	Gourgeist Super
-- 	Gourgeist Small
+- 	Pumpkaboo
+- 	Gourgeist
 - 	Diancie Mega
 - 	Hoopa - both formes
 - 	Volcanion
