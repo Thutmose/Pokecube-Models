@@ -7,7 +7,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Ledian
 - 	Heracross Mega
 - 	Tyranitar Mega
-- 	Swampert Mega
 - 	Surskit
 - 	Masquerain
 - 	Slakoth
