@@ -3,10 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Ledyba
-- 	Ledian
-- 	Heracross Mega
-- 	Tyranitar Mega
 - 	Surskit
 - 	Masquerain
 - 	Slakoth
@@ -97,9 +93,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Swadloon
 - 	Leavanny
 - 	Basculin
-- 	Darumaka
-- 	Darmanitan
-- 	Darmanitan Zen
 - 	Scraggy
 - 	Scrafty
 - 	Sigilyph
