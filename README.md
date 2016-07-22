@@ -3,7 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Mr. Mime
 - 	Gyarados Mega
 - 	Aerodactyl Mega
 - 	Mewtwo Mega-X
@@ -55,7 +54,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Purugly
 - 	Stunky
 - 	Skuntank
-- 	Mime Jr.
 - 	Chatot
 - 	Garchomp Mega
 - 	Skorupi
