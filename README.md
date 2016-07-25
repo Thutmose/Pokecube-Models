@@ -35,8 +35,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Luxray
 - 	Wormadam Trash
 - 	Wormadam Sandy
-- 	Cherubi
-- 	Cherrim
 - 	Shellos
 - 	Gastrodon
 - 	Buneary
@@ -48,8 +46,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Skuntank
 - 	Chatot
 - 	Garchomp Mega
-- 	Skorupi
-- 	Drapion
 - 	Carnivine
 - 	Finneon
 - 	Lumineon
@@ -95,7 +91,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Basculin
 - 	Scraggy
 - 	Scrafty
-- 	Sigilyph
 - 	Tirtouga
 - 	Carracosta
 - 	Archen
