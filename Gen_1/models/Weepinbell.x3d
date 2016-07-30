@@ -17,7 +17,7 @@
 		<Transform DEF="Cube_TRANSFORM"
 		           translation="0.000000 0.000000 1.216078"
 		           scale="0.750000 0.750000 1.000000"
-		           rotation="-0.323616 -0.323616 -0.889126 1.688043"
+		           rotation="0.323616 -0.323616 0.889126 1.688043"
 		           >
 			<Transform DEF="Cube_ifs_TRANSFORM"
 			           translation="0.000000 0.000000 0.000000"
