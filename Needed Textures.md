@@ -1,29 +1,5 @@
 ## These are currently missing shiny textures:
 
--	Porygon
--	Porygon2
--	Porygon-Z
--   Exeggcute
--   Eggecutor
--   Bunnelby
--   Diggersby
--   Tangela
--   Infernape
--   Dedenne
--   Pancham
--   Bunnelby
--   Wormadam
 -   Empoleon
--   Goldeen
--   Seaking
--   Exeggcute
 -   Doduo
--   Dodrio
--   Arcanine
--   Growlithe
--   Venomoth
--   Venonat
--   Ekans
--   Arbok
--   Arcanine
 -   Kadabra
