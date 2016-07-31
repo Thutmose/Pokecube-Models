@@ -49,8 +49,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Carnivine
 - 	Finneon
 - 	Lumineon
-- 	Snover
-- 	Abomasnow
 - 	Abomasnow Mega
 - 	Rhyperior
 - 	Tangrowth
