@@ -11,7 +11,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Makuhita
 - 	Hariyama
 - 	Nosepass
-- 	Mawile Mega
 - 	Meditite
 - 	Medicham Mega
 - 	Medicham
