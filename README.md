@@ -44,7 +44,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Stunky
 - 	Skuntank
 - 	Chatot
-- 	Garchomp Mega
 - 	Carnivine
 - 	Finneon
 - 	Lumineon
