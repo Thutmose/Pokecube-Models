@@ -3,8 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Surskit
-- 	Masquerain
 - 	Slakoth
 - 	Vigoroth
 - 	Slaking
@@ -74,7 +72,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Gigalith
 - 	Drilbur
 - 	Excadrill
-- 	Audino
 - 	Audino Mega
 - 	Timburr
 - 	Gurdurr
