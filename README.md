@@ -20,9 +20,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Seviper
 - 	Castform
 - 	Kecleon
-- 	Clamperl
-- 	Huntail
-- 	Gorebyss
 - 	Luvdisc
 - 	Metagross Mega
 - 	Kricketot
