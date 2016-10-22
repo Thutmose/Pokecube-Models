@@ -24,9 +24,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Metagross Mega
 - 	Kricketot
 - 	Kricketune
-- 	Shinx
-- 	Luxio
-- 	Luxray
 - 	Wormadam Trash
 - 	Wormadam Sandy
 - 	Shellos
