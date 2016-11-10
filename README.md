@@ -14,7 +14,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Medicham
 - 	Volbeat
 - 	Illumise
-- 	Spinda
 - 	Altaria Mega
 - 	Zangoose
 - 	Seviper
