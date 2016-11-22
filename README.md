@@ -6,8 +6,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 - 	Slakoth
 - 	Vigoroth
 - 	Slaking
-- 	~~Makuhita~~
-- 	Hariyama
 - 	Nosepass
 - 	Meditite
 - 	Medicham Mega
