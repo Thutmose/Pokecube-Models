@@ -3,6 +3,16 @@
     <model>
         <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale="0.18"/>
         <metadata head="head" headCap="-180,180" headCap1="-5,5" headAxis="2" headAxis2="0" headDir="1"/>
-        <phase name="biWalk" leftLeg="foot" rightLeg="foot1" leftArm="" rightArm="" duration="10" legAngle="50"/>
+        <phase name="biWalk" leftLeg="leg1" rightLeg="leg2" leftArm="" rightArm="" duration="10" legAngle="50"/>
+		<phase type="idle">
+            <part name="wind">
+                <component name="1" startKey="0" length="1" rotOffset="-0.0,-0.0,-60.0,"/>
+            </part>
+            <part name="wind1">
+                <component name="1" startKey="0" length="1" rotOffset="0.0,0.0,60.0,"/>
+            </part>
+        </phase>
+        <merges merge="idle->sitting" />
+        <merges merge="idle->walking" />
     </model>
 </ModelAnimator>
