@@ -3,152 +3,241 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
-- 	Slakoth
-- 	Vigoroth
-- 	Slaking
-- 	Nosepass
-- 	Meditite
-- 	Medicham Mega
-- 	Medicham
-- 	Volbeat
-- 	Illumise
-- 	Zangoose
-- 	Seviper
-- 	Castform
-- 	Kecleon
-- 	Luvdisc
-- 	Metagross Mega
-- 	Kricketot
-- 	Kricketune
-- 	Wormadam Trash
-- 	Wormadam Sandy
-- 	Shellos
-- 	Gastrodon
-- 	Buneary
-- 	Lopunny
-- 	Lopunny Mega
-- 	Glameow
-- 	Purugly
-- 	Stunky
-- 	Skuntank
-- 	Chatot
-- 	Carnivine
-- 	Finneon
-- 	Lumineon
-- 	Abomasnow Mega
-- 	Rhyperior
-- 	Tangrowth
-- 	Electivire
-- 	Magmortar
-- 	Probopass
-- 	Rotom Wash
-- 	Rotom Mow
-- 	Heatran
-- 	Shaymin Sky
-- 	Shaymin Land
-- 	Lillipup
-- 	Herdier
-- 	Stoutland
-- 	Purrloin
-- 	Liepard
-- 	Pansage
-- 	Simisage
-- 	Pansear
-- 	Simisear
-- 	Panpour
-- 	Simipour
-- 	Roggenrola
-- 	Boldore
-- 	Gigalith
-- 	Drilbur
-- 	Excadrill
-- 	Audino Mega
-- 	Timburr
-- 	Gurdurr
-- 	Conkeldurr
-- 	Throh
-- 	Sawk
-- 	Sewaddle
-- 	Swadloon
-- 	Leavanny
-- 	Basculin
-- 	Scraggy
-- 	Scrafty
-- 	Tirtouga
-- 	Carracosta
-- 	Archen
-- 	Archeops
-- 	Trubbish
-- 	Garbodor
-- 	Minccino
-- 	Cinccino
-- 	Gothita
-- 	Gothorita
-- 	Gothitelle
-- 	Ducklett
-- 	Swanna
-- 	Karrablast
-- 	Escavalier
-- 	Frillish
-- 	Jellicent
-- 	Elgyem
-- 	Beheeyem
-- 	Cubchoo
-- 	Beartic
-- 	Cryogonal
-- 	Shelmet
-- 	Accelgor
-- 	Mienfoo
-- 	Mienshao
-- 	Druddigon
-- 	Golett
-- 	Golurk
-- 	Bouffalant
-- 	Rufflet
-- 	Braviary
-- 	Vullaby
-- 	Mandibuzz
-- 	Heatmor
-- 	Cobalion
-- 	Terrakion
-- 	Virizion
-- 	Tornadus Incarnate
-- 	Tornadus Therian
-- 	Thundurus Incarnate
-- 	Thundurus Therian
-- 	Landorus Therian
-- 	Landorus Incarnate
-- 	Kyurem Black
-- 	Kyurem White
-- 	Litleo
-- 	Pyroar
-- 	Flabébé
-- 	Floette
-- 	Florges
-- 	Skiddo
-- 	Gogoat
-- 	Furfrou
-- 	Espurr
-- 	Meowstic
-- 	Honedge
-- 	Doublade
-- 	Aegislash Shield
-- 	Aegislash Blade
-- 	Spritzee
-- 	Aromatisse
-- 	Swirlix
-- 	Slurpuff
-- 	Binacle
-- 	Barbaracle
-- 	Skrelp
-- 	Dragalge
-- 	Clauncher
-- 	Clawitzer
-- 	Helioptile
-- 	Heliolisk
-- 	Hawlucha
-- 	Pumpkaboo
-- 	Gourgeist
-- 	Diancie Mega
-- 	Hoopa - both formes
-- 	Volcanion
+-   Rattata Alola
+-   Raticate Alola
+-   Raichu Alola
+-   Sandshrew Alola
+-   Sandslash Alola
+-   Vulpix Alola
+-   Ninetales Alola
+-   Diglett Alola
+-   Dugtrio Alola
+-   Meowth Alola
+-   Persian Alola
+-   Geodude Alola
+-   Graveler Alola
+-   Golem Alola
+-   Grimer Alola
+-   Muk Alola
+-   Marowak Alola
+-   Slakoth
+-   Vigoroth
+-   Slaking
+-   Nosepass
+-   Meditite
+-   Medicham
+-   Medicham Mega
+-   Volbeat
+-   Illumise
+-   Spinda
+-   Zangoose
+-   Seviper
+-   Castform
+-   Kecleon
+-   Luvdisc
+-   Metagross Mega
+-   Kricketot
+-   Kricketune
+-   Wormadam Sandy
+-   Wormadam Trash
+-   Shellos
+-   Gastrodon
+-   Buneary
+-   Lopunny
+-   Lopunny Mega
+-   Glameow
+-   Purugly
+-   Stunky
+-   Skuntank
+-   Chatot
+-   Carnivine
+-   Finneon
+-   Lumineon
+-   Abomasnow Mega
+-   Rhyperior
+-   Tangrowth
+-   Electivire
+-   Magmortar
+-   Probopass
+-   Rotom Mow
+-   Rotom Wash
+-   Heatran
+-   Shaymin Land
+-   Shaymin Sky
+-   Lillipup
+-   Herdier
+-   Stoutland
+-   Purrloin
+-   Liepard
+-   Pansage
+-   Simisage
+-   Pansear
+-   Simisear
+-   Panpour
+-   Simipour
+-   Roggenrola
+-   Boldore
+-   Gigalith
+-   Drilbur
+-   Excadrill
+-   Audino Mega
+-   Timburr
+-   Gurdurr
+-   Conkeldurr
+-   Throh
+-   Sawk
+-   Sewaddle
+-   Swadloon
+-   Leavanny
+-   Basculin
+-   Scraggy
+-   Scrafty
+-   Tirtouga
+-   Carracosta
+-   Archen
+-   Archeops
+-   Trubbish
+-   Garbodor
+-   Minccino
+-   Cinccino
+-   Gothita
+-   Gothorita
+-   Gothitelle
+-   Ducklett
+-   Swanna
+-   Karrablast
+-   Escavalier
+-   Frillish
+-   Jellicent
+-   Elgyem
+-   Beheeyem
+-   Cryogonal
+-   Shelmet
+-   Accelgor
+-   Mienfoo
+-   Mienshao
+-   Druddigon
+-   Golett
+-   Golurk
+-   Bouffalant
+-   Rufflet
+-   Braviary
+-   Vullaby
+-   Mandibuzz
+-   Heatmor
+-   Cobalion
+-   Terrakion
+-   Virizion
+-   Tornadus Incarnate
+-   Tornadus Therian
+-   Thundurus Incarnate
+-   Thundurus Therian
+-   Landorus Incarnate
+-   Landorus Therian
+-   Kyurem White
+-   Kyurem Black
+-   Litleo
+-   Pyroar
+-   Flabebe
+-   Floette
+-   Florges
+-   Skiddo
+-   Gogoat
+-   Furfrou
+-   Espurr
+-   Meowstic
+-   Honedge
+-   Doublade
+-   Aegislash Blade
+-   Aegislash Shield
+-   Spritzee
+-   Aromatisse
+-   Swirlix
+-   Slurpuff
+-   Binacle
+-   Barbaracle
+-   Skrelp
+-   Dragalge
+-   Clauncher
+-   Clawitzer
+-   Helioptile
+-   Heliolisk
+-   Hawlucha
+-   Pumpkaboo Average
+-   Pumpkaboo Super
+-   Pumpkaboo Small
+-   Pumpkaboo Large
+-   Gourgeist Average
+-   Gourgeist Large
+-   Gourgeist Super
+-   Gourgeist Small
+-   Diancie Mega
+-   Hoopa Confined
+-   Hoopa Unbound
+-   Volcanion
+-   Pikipek
+-   Trumbeak
+-   Toucannon
+-   Crabrawler
+-   Crabominable
+-   Oricorio
+-   Cutiefly
+-   Ribombee
+-   Rockruff
+-   Lycanroc
+-   Lycanroc Midnight
+-   Wishiwashi
+-   Mareanie
+-   Toxapex
+-   Mudbray
+-   Mudsdale
+-   Dewpider
+-   Araquanid
+-   Fomantis
+-   Lurantis
+-   Morelull
+-   Shiinotic
+-   Salandit
+-   Salazzle
+-   Stufful
+-   Bewear
+-   Bounsweet
+-   Steenee
+-   Tsareena
+-   Comfey
+-   Oranguru
+-   Passimian
+-   Wimpod
+-   Golisopod
+-   Pyukumuku
+-   Type: Null
+-   Silvally
+-   Minior
+-   Minior Core
+-   Komala
+-   Turtonator
+-   Togedemaru
+-   Bruxish
+-   Drampa
+-   Dhelmise
+-   Jangmo-o
+-   Hakamo-o
+-   Kommo-o
+-   Tapu Koko
+-   Tapu Lele
+-   Tapu Bulu
+-   Tapu Fini
+-   Cosmog
+-   Cosmoem
+-   Solgaleo
+-   Lunala
+-   Nihilego
+-   Buzzwole
+-   Pheromosa
+-   Xurkitree
+-   Celesteela
+-   Kartana
+-   Guzzlord
+-   Necrozma
+-   Magearna
+-   Marshadow
