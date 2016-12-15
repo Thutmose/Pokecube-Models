@@ -14,9 +14,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Dugtrio Alola
 -   Meowth Alola
 -   Persian Alola
--   Geodude Alola
--   Graveler Alola
--   Golem Alola
 -   Grimer Alola
 -   Muk Alola
 -   Marowak Alola
