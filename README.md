@@ -183,9 +183,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Oricorio
 -   Cutiefly
 -   Ribombee
--   Rockruff
--   Lycanroc
--   Lycanroc Midnight
 -   Wishiwashi
 -   Mareanie
 -   Toxapex
