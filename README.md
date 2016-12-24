@@ -131,8 +131,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Thundurus Therian
 -   Landorus Incarnate
 -   Landorus Therian
--   Kyurem White
--   Kyurem Black
 -   Litleo
 -   Pyroar
 -   Flabebe
@@ -168,9 +166,7 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Gourgeist Large
 -   Gourgeist Super
 -   Gourgeist Small
--   Diancie Mega
 -   Hoopa Confined
--   Hoopa Unbound
 -   Volcanion
 -   Pikipek
 -   Trumbeak
