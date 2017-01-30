@@ -3,20 +3,8 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
--   Rattata Alola
--   Raticate Alola
--   Raichu Alola
--   Sandshrew Alola
--   Sandslash Alola
--   Vulpix Alola
--   Ninetales Alola
--   Diglett Alola
--   Dugtrio Alola
--   Meowth Alola
--   Persian Alola
 -   Grimer Alola
 -   Muk Alola
--   Marowak Alola
 -   Slakoth
 -   Vigoroth
 -   Slaking
