@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelAnimator version="0.1">
+    <model name="">
+	    <phase name="global" headCap="-50,50" headAxis="1" scale="0.7" offset="0,0,0" rotation="1,0,0,0"/>
+        <phase name="biWalk" armAngle="30" legAngle="45" duration="10" rightArm="armright" leftArm="armleft" rightLeg="legright" leftLeg="legleft"/>
+		<phase name="textures" male="M" female="F"/>
+    </model>
+</ModelAnimator>
