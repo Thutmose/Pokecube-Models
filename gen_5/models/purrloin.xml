@@ -2,6 +2,5 @@
 <ModelAnimator version="0.1">
     <model name="">
         <phase name="global" headCap="-50,50" headAxis="1" scale="0.6" offset="0,0,0" rotation="1,0,0,0"/>
-        <phase name="biWalk" armAngle="35" legAngle="45" duration="10" rightArm="armright" leftArm="armleft" rightLeg="legright" leftLeg="legleft"/>
     </model>
 </ModelAnimator>
