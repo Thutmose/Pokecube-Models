@@ -52,8 +52,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Lillipup
 -   Herdier
 -   Stoutland
--   Purrloin
--   Liepard
 -   Pansage
 -   Simisage
 -   Pansear
@@ -127,8 +125,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Skiddo
 -   Gogoat
 -   Furfrou
--   Espurr
--   Meowstic
 -   Honedge
 -   Doublade
 -   Aegislash Blade
