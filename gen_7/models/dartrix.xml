@@ -6,13 +6,31 @@
         <phase name="biWalk" leftLeg="leg1" rightLeg="leg2" leftArm="" rightArm="" duration="10" legAngle="50"/>
 		<phase type="idle">
             <part name="wind">
-                <component name="1" startKey="0" length="1" rotOffset="-0.0,-0.0,-60.0,"/>
+                <component name="1" startKey="0" length="1" rotOffset="-0.0,10.0,-80.0,"/>
             </part>
             <part name="wind1">
-                <component name="1" startKey="0" length="1" rotOffset="0.0,0.0,60.0,"/>
+                <component name="1" startKey="0" length="1" rotOffset="0.0,-10.0,80.0,"/>
             </part>
         </phase>
+		<phase type ="flying">
+			<part name="wind">
+               <component name="1" rotOffset="10,0,30" rotChange="0,0,-30" length="5" startKey="0"/>
+               <component name="2" rotChange="0,0,30" length="5" startKey="10"/>
+            </part>
+            <part name="wind1">
+               <component name="1" rotOffset="10,0,-30" rotChange="0,0,30" length="5" startKey="0"/>
+               <component name="2" rotChange="0,0,-30" length="5" startKey="10"/>
+            </part>
+			<part name="leg1">
+                <component name="1" startKey="0" length="1" rotOffset="15.0,10,0.0,"/>
+            </part>
+			<part name="leg2">
+                <component name="1" startKey="0" length="1" rotOffset="15.0,-10,0.0,"/>
+            </part>
+		</phase>
         <merges merge="idle->sitting" />
         <merges merge="idle->walking" />
+		<merges merge="idle->flying" />
+		<merges merge="walking->flying" />
     </model>
 </ModelAnimator>
