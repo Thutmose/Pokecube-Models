@@ -38,7 +38,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Rotom Mow
 -   Rotom Wash
 -   Heatran
--   Shaymin Land
 -   Shaymin Sky
 -   Lillipup
 -   Herdier
