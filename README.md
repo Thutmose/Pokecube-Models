@@ -8,7 +8,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Medicham Mega
 -   Volbeat
 -   Illumise
--   Spinda
 -   Zangoose
 -   Seviper
 -   Kecleon
@@ -37,7 +36,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Magmortar
 -   Rotom Mow
 -   Rotom Wash
--   Heatran
 -   Shaymin Sky
 -   Lillipup
 -   Herdier
