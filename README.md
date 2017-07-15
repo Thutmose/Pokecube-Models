@@ -8,7 +8,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Medicham Mega
 -   Volbeat
 -   Illumise
--   Zangoose
 -   Seviper
 -   Kecleon
 -   Luvdisc
@@ -25,12 +24,10 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Purugly
 -   Stunky
 -   Skuntank
--   Chatot
 -   Carnivine
 -   Finneon
 -   Lumineon
 -   Abomasnow Mega
--   Rhyperior
 -   Tangrowth
 -   Magmortar
 -   Rotom Mow
@@ -44,7 +41,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Simisear
 -   Panpour
 -   Simipour
--   Roggenrola
 -   Boldore
 -   Gigalith
 -   Drilbur
