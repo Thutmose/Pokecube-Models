@@ -41,8 +41,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Simisear
 -   Panpour
 -   Simipour
--   Boldore
--   Gigalith
 -   Drilbur
 -   Excadrill
 -   Audino Mega
