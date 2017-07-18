@@ -159,7 +159,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Passimian
 -   Wimpod
 -   Golisopod
--   Pyukumuku
 -   Type: Null
 -   Silvally
 -   Minior
