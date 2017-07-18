@@ -17,36 +17,7 @@
             <forme name="Vivillon Sandstorm" tex="Vivillon Sandstorm"/>
         </customTex> 
     </model>
-    <Pokemon name="Vivillon" number="666">
-        <STATS>
-            <EVOLUTIONMODE>L-1</EVOLUTIONMODE>
-            <CAPTURERATE>255</CAPTURERATE>
-            <EVOLUTIONANIMATION>tile crack_3</EVOLUTIONANIMATION>
-            <SPECIES>Insecta</SPECIES>
-            <MOVEMENTTYPE>flying</MOVEMENTTYPE>
-            <MASSKG>17.0</MASSKG>
-            <EXPYIELD>185</EXPYIELD>
-            <BASEFRIENDSHIP>70</BASEFRIENDSHIP>
-            <LOGIC shoulder="FALSE"/>
-            <EXPERIENCEMODE>Medium Fast</EXPERIENCEMODE>
-            <GENDERRATIO>127</GENDERRATIO>
-            <BASESTATS atk="52" def="50" hp="80" spatk="90" spd="89" spdef="50"/>
-            <EVYIELD hp="1" spatk="1" spd="1"/>
-            <SIZES height="1.2" length="1.2" width="1.2"/>
-            <TYPE type1="Bug" type2="Flying"/>
-            <ABILITY hidden="Friend Guard" normal="Shield Dust, Compoundeyes"/>
-        </STATS>
-        <MOVES>
-            <MISC moves="CALMMIND, TOXIC, HIDDENPOWER, SUNNYDAY, HYPERBEAM, LIGHTSCREEN, PROTECT, RAINDANCE, ROOST, SAFEGUARD, FRUSTRATION, SOLARBEAM, RETURN, PSYCHIC, DOUBLETEAM, AERIALACE, FACADE, REST, ATTRACT, THIEF, ROUND, ENERGYBALL, ACROBATICS, GIGAIMPACT, FLASH, STRUGGLEBUG, PSYCHUP, INFESTATION, DREAMEATER, SWAGGER, SLEEPTALK, UTURN, SUBSTITUTE, SECRETPOWER, CONFIDE, POISONPOWDER, RAGEPOWDER, STUNSPORE"/>
-            <LVLUP
-                lvl_1="POWDER, SLEEPPOWDER, POISONPOWDER, STUNSPORE, GUST, LIGHTSCREEN"
-                lvl_12="STRUGGLEBUG" lvl_17="PSYBEAM"
-                lvl_21="SUPERSONIC" lvl_25="DRAININGKISS"
-                lvl_31="AROMATHERAPY" lvl_35="BUGBUZZ"
-                lvl_41="SAFEGUARD" lvl_45="QUIVERDANCE"
-                lvl_50="HURRICANE" lvl_55="POWDER"/>
-        </MOVES>
-    </Pokemon>
+    <Pokemon name="Vivillon" number="666" base="true"/>
     <Pokemon name="Vivillon Sun" number="666"/>
     <Pokemon name="Vivillon Ocean" number="666"/>
     <Pokemon name="Vivillon Elegant" number="666"/>
