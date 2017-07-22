@@ -159,8 +159,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Golisopod
 -   Type: Null
 -   Silvally
--   Minior
--   Minior Core
 -   Komala
 -   Turtonator
 -   Togedemaru
