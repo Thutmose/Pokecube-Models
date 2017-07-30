@@ -172,7 +172,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Tapu Lele
 -   Tapu Bulu
 -   Tapu Fini
--   Nihilego
 -   Buzzwole
 -   Pheromosa
 -   Xurkitree
