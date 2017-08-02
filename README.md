@@ -6,7 +6,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Medicham Mega
 -   Volbeat
 -   Illumise
--   Seviper
 -   Kecleon
 -   Luvdisc
 -   Kricketot
@@ -137,8 +136,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Wishiwashi
 -   Mareanie
 -   Toxapex
--   Mudbray
--   Mudsdale
 -   Dewpider
 -   Araquanid
 -   Fomantis
