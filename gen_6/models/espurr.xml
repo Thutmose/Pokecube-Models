@@ -2,5 +2,11 @@
 <ModelAnimator version="0.1">
     <model name="">
         <phase name="global" headCap="-50,50" headAxis="1" scale="0.5" offset="0,0,0" rotation="1,0,0,0"/>
-    </model>
+        <metadata head="head" />
+        <customTex default="espurr">
+            <part name="head" tex="espurrhead"/>
+            <animation part="head" trigger="random:0.002:4" diffs="0,0.3"/>
+            <animation part="head" trigger="sleeping" diffs="0,0.6"/>   
+        </customTex> 
+   </model>
 </ModelAnimator>
