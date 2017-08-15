@@ -3,5 +3,10 @@
     <model name="">
 	    <phase name="global" headCap="-50,50" headAxis="1" scale="0.7" offset="0,0,0" rotation="1,0,0,0"/>
 		<phase name="textures" male="M" female="F"/>
-    </model>
+        <customTex default="meowstic">
+            <part name="head" tex="meowstichead"/>
+            <animation part="head" trigger="random:0.002:4" diffs="0,0.77142857142"/>
+            <animation part="head" trigger="sleeping" diffs="0,0.54285714285"/>   
+        </customTex>    
+   </model>
 </ModelAnimator>
