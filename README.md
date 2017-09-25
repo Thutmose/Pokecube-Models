@@ -4,21 +4,11 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 ##Other needed models - Pull requests with these would be nice.
 
 -   Medicham Mega
--   Volbeat
--   Illumise
 -   Kecleon
--   Luvdisc
 -   Kricketot
 -   Kricketune
 -   Wormadam Sandy
 -   Wormadam Trash
--   Shellos
--   Gastrodon
--   Buneary
--   Lopunny
--   Lopunny Mega
--   Glameow
--   Purugly
 -   Stunky
 -   Skuntank
 -   Carnivine
@@ -27,8 +17,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Abomasnow Mega
 -   Tangrowth
 -   Magmortar
--   Rotom Mow
--   Rotom Wash
 -   Lillipup
 -   Herdier
 -   Stoutland
@@ -60,9 +48,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Garbodor
 -   Minccino
 -   Cinccino
--   Gothita
--   Gothorita
--   Gothitelle
 -   Ducklett
 -   Swanna
 -   Karrablast
