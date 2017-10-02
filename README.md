@@ -4,9 +4,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 ##Other needed models - Pull requests with these would be nice.
 
 -   Medicham Mega
--   Kecleon
--   Kricketot
--   Kricketune
 -   Wormadam Sandy
 -   Wormadam Trash
 -   Stunky
