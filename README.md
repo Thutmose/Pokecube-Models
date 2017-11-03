@@ -92,9 +92,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Hawlucha
 -   Hoopa Confined
 -   Volcanion
--   Pikipek
--   Trumbeak
--   Toucannon
 -   Crabrawler
 -   Crabominable
 -   Oricorio
@@ -113,7 +110,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Bounsweet
 -   Steenee
 -   Tsareena
--   Comfey
 -   Oranguru
 -   Passimian
 -   Wimpod
