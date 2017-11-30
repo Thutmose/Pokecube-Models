@@ -92,7 +92,7 @@
         </phase>
 	</model>
     <details>
-        <RIDDENOFFSET>0.45</RIDDENOFFSET>
+        <RIDDENOFFSET>0.45:0,0.45,-.1:0,0.45,-.2</RIDDENOFFSET>
     </details>
 </ModelAnimator>
 

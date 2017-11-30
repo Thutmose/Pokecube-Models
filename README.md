@@ -7,7 +7,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Wormadam Sandy
 -   Wormadam Trash
 -   Abomasnow Mega
--   Tangrowth
 -   Magmortar
 -   Lillipup
 -   Herdier
@@ -90,7 +89,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Helioptile
 -   Heliolisk
 -   Hawlucha
--   Hoopa Confined
 -   Volcanion
 -   Crabrawler
 -   Crabominable
@@ -119,7 +117,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Togedemaru
 -   Bruxish
 -   Drampa
--   Dhelmise
 -   Jangmo-o
 -   Hakamo-o
 -   Kommo-o
