@@ -97,8 +97,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Ribombee
 -   Mareanie
 -   Toxapex
--   Dewpider
--   Araquanid
 -   Morelull
 -   Shiinotic
 -   Salandit
@@ -112,7 +110,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Passimian
 -   Wimpod
 -   Golisopod
--   Komala
 -   Turtonator
 -   Togedemaru
 -   Bruxish
