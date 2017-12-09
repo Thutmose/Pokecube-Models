@@ -93,6 +93,7 @@
 	</model>
     <details>
         <RIDDENOFFSET>0.7</RIDDENOFFSET>
+        <MODELSIZE>7,1,1</MODELSIZE>
     </details>
 </ModelAnimator>
 

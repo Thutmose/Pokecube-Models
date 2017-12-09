@@ -59,4 +59,8 @@
             </part>
         </phase>
     </model>
+    <details>
+        <RIDDENOFFSET>0.4</RIDDENOFFSET>
+        <MODELSIZE>6.5,1,1</MODELSIZE>
+    </details>
 </ModelAnimator>

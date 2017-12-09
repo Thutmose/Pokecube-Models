@@ -36,6 +36,7 @@
 	</model>
     <details>
         <RIDDENOFFSET>0.4</RIDDENOFFSET>
+        <MODELSIZE>9.2,1,1</MODELSIZE>
     </details>
 </ModelAnimator>
 
