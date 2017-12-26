@@ -4,24 +4,24 @@
         <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale=".50"/>
         <metadata headCap="-60,60" headAxis="1" headAxis2="0" headDir="1" head="Head1"/>
         <customTex default="Arceus">
-            <forme name="Arceus" tex="Arceus"/>
-            <forme name="Arceus Bug" tex="Arceus Bug"/>
-            <forme name="Arceus Dark" tex="Arceus Dark"/>
-            <forme name="Arceus Dragon" tex="Arceus Dragon"/>
-            <forme name="Arceus Electric" tex="Arceus Electric"/>
-            <forme name="Arceus Fairy" tex="Arceus Fairy"/>
-            <forme name="Arceus Fighting" tex="Arceus Fighting"/>
-            <forme name="Arceus Fire" tex="Arceus Fire"/>
-            <forme name="Arceus Flying" tex="Arceus Flying"/>
-            <forme name="Arceus Ghost" tex="Arceus Ghost"/>
-            <forme name="Arceus Grass" tex="Arceus Grass"/>
-            <forme name="Arceus Ground" tex="Arceus Ground"/>
-            <forme name="Arceus Ice" tex="Arceus Ice"/>
-            <forme name="Arceus Poison" tex="Arceus Poison"/>
-            <forme name="Arceus Psychic" tex="Arceus Psychic"/>
-            <forme name="Arceus Rock" tex="Arceus Rock"/>
-            <forme name="Arceus Steel" tex="Arceus Steel"/>
-            <forme name="Arceus Water" tex="Arceus Water"/>
+            <forme name="Arceus" tex="arceus"/>
+            <forme name="Arceus Bug" tex="ArceusBug"/>
+            <forme name="Arceus Dark" tex="ArceusDark"/>
+            <forme name="Arceus Dragon" tex="ArceusDragon"/>
+            <forme name="Arceus Electric" tex="ArceusElectric"/>
+            <forme name="Arceus Fairy" tex="ArceusFairy"/>
+            <forme name="Arceus Fighting" tex="ArceusFighting"/>
+            <forme name="Arceus Fire" tex="ArceusFire"/>
+            <forme name="Arceus Flying" tex="ArceusFlying"/>
+            <forme name="Arceus Ghost" tex="ArceusGhost"/>
+            <forme name="Arceus Grass" tex="ArceusGrass"/>
+            <forme name="Arceus Ground" tex="ArceusGround"/>
+            <forme name="Arceus Ice" tex="ArceusIce"/>
+            <forme name="Arceus Poison" tex="ArceusPoison"/>
+            <forme name="Arceus Psychic" tex="ArceusPsychic"/>
+            <forme name="Arceus Rock" tex="ArceusRock"/>
+            <forme name="Arceus Steel" tex="ArceusSteel"/>
+            <forme name="Arceus Water" tex="ArceusWater"/>
         </customTex> 
         <phase name="quadWalk" leftHind="BackLegL1" rightHind="BackLegR1" leftFront="FrontLegL1" rightFront="FrontLegR1" duration="10"/>
     </model>

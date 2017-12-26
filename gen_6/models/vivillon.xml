@@ -3,18 +3,18 @@
     <model name="">
         <phase name="global" rotation="1,0,0,0" offset="0,0,0" scale="0.3"/>
         <metadata head="head" headCap="-60,60" headAxis="1" headAxis2="2" headDir="1"/>
-        <customTex default="Vivillon Highplains">
-            <forme name="Vivillon Sun" tex="Vivillon Sun"/>
-            <forme name="Vivillon Ocean" tex="Vivillon Ocean"/>
-            <forme name="Vivillon Elegant" tex="Vivillon Elegant"/>
-            <forme name="Vivillon Hell" tex="Vivillon Hell"/>
-            <forme name="Vivillon End" tex="Vivillon End"/>
-            <forme name="Vivillon Highplains" tex="Vivillon Highplains"/>
-            <forme name="Vivillon IcySnow" tex="Vivillon IcySnow"/>
-            <forme name="Vivillon Modern" tex="Vivillon Modern"/>
-            <forme name="Vivillon Monsoon" tex="Vivillon Monsoon"/>
-            <forme name="Vivillon Polar" tex="Vivillon Polar"/>
-            <forme name="Vivillon Sandstorm" tex="Vivillon Sandstorm"/>
+        <customTex default="vivillonhighplains">
+            <forme name="Vivillon Sun" tex="vivillonsun"/>
+            <forme name="Vivillon Ocean" tex="vivillonocean"/>
+            <forme name="Vivillon Elegant" tex="vivillonelegant"/>
+            <forme name="Vivillon Hell" tex="vivillonhell"/>
+            <forme name="Vivillon End" tex="vivillonend"/>
+            <forme name="Vivillon Highplains" tex="vivillonhighplains"/>
+            <forme name="Vivillon IcySnow" tex="vivillonicysnow"/>
+            <forme name="Vivillon Modern" tex="vivillonmodern"/>
+            <forme name="Vivillon Monsoon" tex="vivillonmonsoon"/>
+            <forme name="Vivillon Polar" tex="vivillonpolar"/>
+            <forme name="Vivillon Sandstorm" tex="vivillonsandstorm"/>
         </customTex> 
     </model>
     <Pokemon name="Vivillon" number="666" base="true"/>

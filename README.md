@@ -4,13 +4,7 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 ##Other needed models - Pull requests with these would be nice.
 
 -   Medicham Mega
--   Wormadam Sandy
--   Wormadam Trash
--   Abomasnow Mega
 -   Magmortar
--   Lillipup
--   Herdier
--   Stoutland
 -   Pansage
 -   Simisage
 -   Pansear
@@ -31,8 +25,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Basculin
 -   Scraggy
 -   Scrafty
--   Tirtouga
--   Carracosta
 -   Archen
 -   Archeops
 -   Trubbish
@@ -64,14 +56,11 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Cobalion
 -   Terrakion
 -   Virizion
--   Tornadus Incarnate
--   Tornadus Therian
--   Thundurus Incarnate
--   Thundurus Therian
--   Landorus Incarnate
--   Landorus Therian
--   Litleo
--   Pyroar
+-   Tornadus
+-   Thundurus
+-   Landorus
+-   Kyurem White
+-   Kyurem Black
 -   Flabebe
 -   Floette
 -   Florges
@@ -101,26 +90,21 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Shiinotic
 -   Salandit
 -   Salazzle
--   Stufful
--   Bewear
 -   Bounsweet
 -   Steenee
 -   Tsareena
 -   Oranguru
--   Passimian
 -   Wimpod
 -   Golisopod
 -   Turtonator
 -   Togedemaru
 -   Bruxish
--   Drampa
--   Jangmo-o
--   Hakamo-o
--   Kommo-o
--   Buzzwole
 -   Pheromosa
--   Xurkitree
 -   Celesteela
 -   Guzzlord
 -   Necrozma
 -   Magearna
+-   Poipole
+-   Naganadel
+-   Stakataka
+-   Zeraora

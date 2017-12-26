@@ -25,6 +25,5 @@
 		<merges merge="idle->sitting" />
         <merges merge="idle->walking" />
 		<merges merge="idle->flying" />
-		<merges merge="walking->flying" />
     </model>
 </ModelAnimator>
