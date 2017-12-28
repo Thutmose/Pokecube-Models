@@ -4,7 +4,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 ##Other needed models - Pull requests with these would be nice.
 
 -   Medicham Mega
--   Kricketune
 -   Magmortar
 -   Pansage
 -   Simisage
@@ -23,7 +22,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Sewaddle
 -   Swadloon
 -   Leavanny
--   Basculin
 -   Scraggy
 -   Scrafty
 -   Archen
@@ -59,7 +57,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Virizion
 -   Kyurem Black
 -   Kyurem White
--   Pyroar
 -   Flabebe
 -   Floette
 -   Florges
