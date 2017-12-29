@@ -77,7 +77,8 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Volcanion
 -   Crabrawler
 -   Crabominable
--   Oricorio
+-   Oricorio Pa'u
+-   Oricorio Pom-Pom
 -   Cutiefly
 -   Ribombee
 -   Mareanie
