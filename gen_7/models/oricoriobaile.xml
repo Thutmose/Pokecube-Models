@@ -86,5 +86,27 @@
 				<component name="2" rotChange="-12,0,0" length="6" startKey="10"/>
             </part>
 		</phase>
+		<phase type="walking">
+			<part name="wing1">
+              <component name="1" startKey="0" length="1" rotOffset="90.0,50,-70.0,"/>
+            </part>
+			<part name="wing1_1">
+              <component name="1" startKey="0" length="1" rotOffset="180.0,-2,180,"/>
+            </part>
+			<part name="wing2">
+              <component name="1" startKey="0" length="1" rotOffset="90.0,-50,70.0,"/>
+            </part>
+			<part name="wing2_1">
+              <component name="1" startKey="0" length="1" rotOffset="180.0,-2,-180,"/>
+            </part>
+			<part name="tail1">
+				<component name="1" rotOffset="0,0,0" rotChange="10,0,0" length="10" startKey="0"/>
+				<component name="2" rotChange="-10,0,0" length="10" startKey="10"/>
+            </part>
+			<part name="tail2">
+				<component name="1" rotOffset="5,0,0" rotChange="12,0,0" length="6" startKey="0"/>
+				<component name="2" rotChange="-12,0,0" length="6" startKey="10"/>
+            </part>
+		</phase>
     </model>
 </ModelAnimator>

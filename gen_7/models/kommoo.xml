@@ -110,7 +110,5 @@
                <component name="2" rotChange="0,-20,0" length="8" startKey="10"/>
             </part>
         </phase>
-		<merges merge="idle->sitting" />
-        <merges merge="idle->walking" />
     </model>
 </ModelAnimator>
