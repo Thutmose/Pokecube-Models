@@ -15,15 +15,15 @@
 		<phase type="flying">
             <part name="fly_1">
                 <component name="1" rotOffset="-10,0,45" rotChange="0,0,-28" length="5" startKey="0"/>
-               <component name="2" rotChange="0,0,18" length="5" startKey="10"/>
+                <component name="2" rotChange="0,0,18" length="5" startKey="10"/>
             </part>
 			<part name="fly_1_001">
-                <component name="1" rotOffset="-10,0,45" rotChange="0,0,-28" length="5" startKey="0"/>
-               <component name="2" rotChange="0,0,18" length="5" startKey="10"/>
+                <component name="1" rotOffset="-10,0,-45" rotChange="0,0,28" length="5" startKey="0"/>
+                <component name="2" rotChange="0,0,-18" length="5" startKey="10"/>
             </part>
 			<part name="tail_1">
                 <component name="1" rotOffset="-10,0,45" rotChange="0,0,-28" length="5" startKey="0"/>
-               <component name="2" rotChange="0,0,18" length="5" startKey="10"/>
+                <component name="2" rotChange="0,0,18" length="5" startKey="10"/>
             </part>
 			<part name="foot_1">
 				<component name="1" rotOffset="30,0,0" length="5" startKey="0"/>

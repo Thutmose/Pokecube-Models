@@ -14,13 +14,13 @@
             </part>
 		</phase>
 		<customTex default="Minior">
-            <forme name="Blue Core Minior" tex="Blue Core Minior"/>
-            <forme name="Green Core Minior" tex="Green Core Minior"/>
-            <forme name="Indigo Core Minior" tex="Indigo Core Minior"/>
-            <forme name="Orange Core Minior" tex="Orange Core Minior"/>
-            <forme name="Red Core Minior" tex="Red Core Minior"/>
-            <forme name="Violet Core Minior" tex="Violet Core Minior"/>
-            <forme name="Yellow Core Minior" tex="Yellow Core Minior"/>
+            <forme name="Blue Core Minior" tex="BlueCoreMinior"/>
+            <forme name="Green Core Minior" tex="GreenCoreMinior"/>
+            <forme name="Indigo Core Minior" tex="IndigoCoreMinior"/>
+            <forme name="Orange Core Minior" tex="OrangeCoreMinior"/>
+            <forme name="Red Core Minior" tex="RedCoreMinior"/>
+            <forme name="Violet Core Minior" tex="VioletCoreMinior"/>
+            <forme name="Yellow Core Minior" tex="YellowCoreMinior"/>
         </customTex> 
 		</model>
 </ModelAnimator>
