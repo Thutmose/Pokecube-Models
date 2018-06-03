@@ -28,8 +28,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Cobalion
 -   Terrakion
 -   Virizion
--   Kyurem Black
--   Kyurem White
 -   Skiddo
 -   Gogoat
 -   Furfrou
