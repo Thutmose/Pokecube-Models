@@ -12,8 +12,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Archeops
 -   Trubbish
 -   Garbodor
--   Minccino
--   Cinccino
 -   Frillish
 -   Jellicent
 -   Elgyem
@@ -48,4 +46,3 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Poipole
 -   Naganadel
 -   Stakataka
--   Zeraora
