@@ -41,7 +41,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Crabominable
 -   Turtonator
 -   Bruxish
--   Celesteela
 -   Poipole
 -   Naganadel
 -   Stakataka
