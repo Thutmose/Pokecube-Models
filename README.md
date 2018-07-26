@@ -3,11 +3,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 
 ##Other needed models - Pull requests with these would be nice.
 
--   Magmortar
--   Drilbur
--   Excadrill
--   Scraggy
--   Scrafty
 -   Archen
 -   Archeops
 -   Trubbish
@@ -42,7 +37,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Crabominable
 -   Turtonator
 -   Bruxish
--   Celesteela
 -   Poipole
 -   Naganadel
 -   Stakataka
