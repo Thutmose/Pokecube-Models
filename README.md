@@ -28,8 +28,6 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Aromatisse
 -   Swirlix
 -   Slurpuff
--   Binacle
--   Barbaracle
 -   Helioptile
 -   Heliolisk
 -   Hawlucha
