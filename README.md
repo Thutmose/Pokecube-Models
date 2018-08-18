@@ -38,3 +38,7 @@ Repository for the Model files for https://github.com/Thutmose/Pokecube
 -   Poipole
 -   Naganadel
 -   Stakataka
+
+## Models that need fixing:
+
+-   Probopass - Texture is messed up.
