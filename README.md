@@ -1,7 +1,7 @@
 # Pokecube-Models
 Repository for the Model files for https://github.com/Thutmose/Pokecube
 
-##Other needed models - Pull requests with these would be nice.
+## Other needed models - Pull requests with these would be nice.
 
 -   Archen
 -   Archeops
